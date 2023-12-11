@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.6](https://github.com/james-curtis/svg2bitmap/compare/v0.1.5...v0.1.6) (2023-12-11)
+
+
+### Bug Fixes
+
+* change env port ([754e719](https://github.com/james-curtis/svg2bitmap/commit/754e7195d5ecc4985753a7036de16f7f7a76e936))
+* playwright driver chromium ([adc08f5](https://github.com/james-curtis/svg2bitmap/commit/adc08f576223f07f167c3c35aed69a9db656da49))
+* work on wsl, unable to use soft link ([ba16c12](https://github.com/james-curtis/svg2bitmap/commit/ba16c12af27fbd99cd0f9f9cf14e3aee9dd86397))
+
 ## [0.1.5](https://github.com/james-curtis/svg2bitmap/compare/v0.1.4...v0.1.5) (2023-11-29)
 
 
